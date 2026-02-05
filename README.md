@@ -5,7 +5,7 @@ A Python-based tool for analyzing suspicious emails. Extracts headers, URLs, att
 ## Demo
 
 ### Phishing Detection
-![Phishing Analyzer Demo](screenshots/demo.png)
+![Phishing Analyzer Demo](screenshots/phishing-email-analyzer.png)
 
 ## Features
 
