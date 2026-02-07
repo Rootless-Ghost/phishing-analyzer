@@ -2,6 +2,9 @@
 
 A Python-based tool for analyzing suspicious emails. Extracts headers, URLs, attachments, and identifies indicators of compromise (IOCs) commonly found in phishing attacks.
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## Demo
 
 ### Phishing Detection
