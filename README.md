@@ -1,6 +1,10 @@
 # Phishing Email Analyzer
 
+<div align="center">
+
 A Python-based tool for analyzing suspicious emails. Extracts headers, URLs, attachments, and identifies indicators of compromise (IOCs) commonly found in phishing attacks.
+
+ </div>
 
 <div align="center">
 
