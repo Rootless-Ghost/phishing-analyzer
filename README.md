@@ -30,8 +30,8 @@ A Python-based tool for analyzing suspicious emails. Extracts headers, URLs, att
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/phishing-analyzer.git
-cd phishing-analyzer
+git clone https://github.com/Rootless-Ghost/Phishing-Analyzer.git
+cd Phishing-Analyzer
 pip install -r requirements.txt
 ```
 
